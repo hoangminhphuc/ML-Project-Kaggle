@@ -8,8 +8,8 @@ The project focuses on analyzing and addressing **Problematic Internet Use** usi
 ## Repository Contents
 
 - **Exploratory Data Analysis**: Notebooks for the EDA of tabular and actigraphy data.
-- **Hyperparameters Tuning**: Optimizing, tuning hyperparameters for our model training session.
-- **Model Training Pipeline**: Notebooks used for data preprocessing, feature engineering, model training, and evaluation. This is the notebook that we used for our submission to the competition.
+- **Hyperparameters Tuning**: Notebook for optimizing, tuning hyperparameters for our model training session.
+- **Model Training Pipeline**: Notebook used for data preprocessing, feature engineering, model training, and evaluation. This is the notebook that we used for our submission to the competition.
 
 ## Acknowledgments
 This project was inspired by the efforts of the **Child Mind Institute** in addressing mental health challenges related to internet usage.
