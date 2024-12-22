@@ -11,6 +11,9 @@ The project focuses on analyzing and addressing **Problematic Internet Use** usi
 - **Hyperparameters Tuning**: Notebook for optimizing, tuning hyperparameters for our model training session.
 - **Model Training Pipeline**: Notebook used for data preprocessing, feature engineering, model training, and evaluation. This is the notebook that we used for our submission to the competition.
 
+## Note
+The Hyperparameters Tuning notebook takes quite a few minutes to open for the first time, due to its lengthy output, and the github backend. If you cannot open it, you can go to this link: https://nbviewer.org/
+
 ## Acknowledgments
 This project was inspired by the efforts of the **Child Mind Institute** in addressing mental health challenges related to internet usage.
 
